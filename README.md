@@ -10,7 +10,7 @@
 - [Python,HTML/CSS and Machine Learning]
 
 ## Current Projects
-- [AI-) — short description
+- [AI- https://github.com/MURTUMBU/murtumbu.git) — short description
 
 ## How to Reach Me
 - Email: [murtumbu@gmail.com]
